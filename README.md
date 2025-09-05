@@ -7,9 +7,11 @@ The system was designed to manage student details, faculty information, courses,
 ⚠️ Note: The original source code and documentation were lost.  
 This repository contains the **project presentation slides** and **explanation video** to showcase the concept and implementation.
 
+
 ## 👥 Team
-- Tejeswara Reddy Annapureddy  
-- Yasmitha Tanikonda  
+- [Tejeswara Reddy Annapureddy](https://github.com/TejeswaraReddy-Annapureddy)  
+- [Yasmitha Tanikonda](https://github.com/yasmitha-22)  
+
 
 ## 🎯 Features (Conceptual)
 - Student and faculty management  
